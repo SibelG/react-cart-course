@@ -8,11 +8,11 @@
 
 1. Clone the Repository
   
-     `git clone https://github.com/rajat2502/shopping-cart-react`
+     `git clone https://https://github.com/SibelG/react-cart-course`
 
 2. cd into Events-Console
   
-      `cd shopping-cart-react`
+      `cd react-cart-course`
       
 3. Install all dependencies
       
