@@ -12,7 +12,7 @@
 
 2. cd into Events-Console
   
-      `cd shopping-cart-react`
+      `cd react-cart-course`
       
 3. Install all dependencies
       
